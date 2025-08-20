@@ -40,7 +40,7 @@ My first MVC web app built with ASP.NET and SQL Server.
 
 ![Sherif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheriffssalii&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheriffssalii&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheriffssalii&layout=compact&theme=github_dark&cache_seconds=1)
 
 ### Featured Project
 
