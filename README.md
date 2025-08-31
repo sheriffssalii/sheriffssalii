@@ -7,19 +7,19 @@ I'm a passionate and driven software developer based in Cairo, Egypt 🇪🇬. I
 ## 🧠 About Me
 
 - 🔭 Currently exploring opportunities in **.NET Development** and **Front-End Development**
-- 👨‍💻 Graduate of ITI – trained in .NET and full-stack development
+- 👨‍💻 Graduate of ITI – trained in .NET 
 - 🚀 Always eager to learn new tools, frameworks, and best practices
-- 📚 Constantly improving my skills in **C#**, **ASP.NET**, **JavaScript**, **HTML/CSS**, and more
+- 📚 Constantly improving my skills in **C#**, **ASP.NET**, **HTML/CSS**, and more
 - 💬 Open to collaboration on real-world projects, especially those that make a positive impact
 
 ---
 
 ## 🛠️ Tech Stack
 
-- 💻 Languages: `C#`, `JavaScript`, `HTML5`, `CSS3`
+- 💻 Languages: `C#` , `HTML5`, `CSS3`
 - 🌐 Web: `ASP.NET MVC`, `Entity Framework`, `Bootstrap`
 - 🛢️ Databases: `SQL Server`
-- 🔧 Tools: `Visual Studio`, `Git`, `GitHub`, `Postman`
+- 🔧 Tools: `Visual Studio`, `Git`, `GitHub`
 
 ---
 
