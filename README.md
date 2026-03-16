@@ -18,8 +18,8 @@
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | `C#` `Python` `Dart` `JavaScript` `HTML5` `CSS3` |
-| **Web** | `ASP.NET MVC` `Entity Framework` `Bootstrap` |
+| **Languages** | `C#` `Python` `Dart` `TypeScript` `JavaScript` `HTML5` `CSS3` |
+| **Web** | `ASP.NET MVC` `Entity Framework` `React` `Bootstrap` `Tailwind CSS` |
 | **Mobile** | `Flutter` |
 | **Graphics** | `OpenGL` `PyOpenGL` `GLFW` `Pygame` |
 | **Database** | `SQL Server` |
@@ -56,8 +56,14 @@ A cross-platform Flutter app for gym management. Runs on Android, iOS, Web, Wind
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [🏆 Enactus SHA Website](https://enactus-sha.vercel.app) | Live website for the Enactus student activity at El-Shorouk Academy | `React` `TypeScript` `Tailwind CSS` `Supabase` |
 | [🌐 Elevvo Internship](https://github.com/sheriffssalii/Elevvo-Internship) | Frontend work from internship: responsive layouts, animations, DOM manipulation | `HTML5` `CSS3` `JavaScript` |
 | [⚙️ ITI .NET](https://github.com/sheriffssalii/ITI_NET) | First full MVC web application | `C#` `ASP.NET MVC` `Entity Framework` `SQL Server` |
+
+### 🏆 Enactus SHA Website
+> Student Activity · [🔗 Live Site](https://enactus-sha.vercel.app)
+
+A fully deployed website for the **Enactus** student activity chapter at El-Shorouk Academy. Built with React and TypeScript, styled with Tailwind CSS, and backed by Supabase. Deployed on Vercel.
 
 ---
 
